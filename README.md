@@ -10,21 +10,21 @@ Welcome! This is my work from University of Bucharest, Romania. This includes ho
 </div>
 
 * 🎓 Semester 1
-  - [Computer Systems Architecture](https://github.com/912-enache-vlad/Algebra/tree/main) - Assembly 
+  - [Computer Systems Architecture](https://github.com/MihneaCucu/StorageManagement) - Assembly 
   - [Mathematical and Computational Logic](https://github.com/912-enache-vlad/Computer-Systems-Architecture/tree/main) - Prolog
   - [Algorithm Programming](https://github.com/912-enache-vlad/Fundamentals-of-programming) - Python 
     
 * 🎓 Semester 2
   - [Databases](https://github.com/912-enache-vlad/Data-Structures-and-Algorithms) - SQL
   - [Formal Languages and Automata](https://github.com/912-enache-vlad/Geometry) - C++, Python
-  - [Object-Oriented Programming](https://github.com/912-enache-vlad/Graph-Algorithms) - C++
-  - [Data Structures](https://github.com/912-enache-vlad/Object-Oriented-Programming) - C++
+  - [Object-Oriented Programming](https://github.com/MihneaCucu/Brickset-Project) - C++
+  - [Data Structures](https://github.com/MihneaCucu/Structuri-de-date-avansate) - C++
   - [Web Techniques](https://github.com/912-enache-vlad/Operating-Systems) - HTML, CSS, JS
     
 * 🎓 Semester 3
   - [Fundamental Algorithms](https://github.com/VladEnache7/Semester-3/tree/main/Advanced%20programming%20methods) - C++
-  - [ASP.NET Web Application Development](https://github.com/VladEnache7/Semester-3/tree/main/Databases) - C#
-  - [Probability and Statistics](https://github.com/VladEnache7/Semester-3/tree/main/Computer%20Networks) - Python
+  - [ASP.NET Web Application Development](https://github.com/MihneaCucu/TurboPiese) - C#
+  - [Probability and Statistics](https://github.com/MihneaCucu/SpeechRecognition) - Python
   - [Functional Programming](https://github.com/VladEnache7/Semester-3/tree/main/Functional%20and%20logical%20programming) - Haskell
   - [Database Management Systems](https://github.com/VladEnache7/Semester-3/tree/main/Probabilities%20and%20Statistics) - PL/SQL
 
