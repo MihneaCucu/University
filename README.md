@@ -11,7 +11,7 @@ Welcome! This is my work from University of Bucharest, Romania. This includes ho
 
 * 🎓 Semester 1
   - [Computer Systems Architecture](https://github.com/MihneaCucu/StorageManagement) - Assembly 
-  - [Mathematical and Computational Logic](https://github.com/912-enache-vlad/Computer-Systems-Architecture/tree/main) - Prolog
+  - [Mathematical and Computational Logic](https://github.com/MihneaCucu/Mathematical-and-Computational-Logic) - Prolog
   - [Algorithm Programming](https://github.com/912-enache-vlad/Fundamentals-of-programming) - Python 
     
 * 🎓 Semester 2
