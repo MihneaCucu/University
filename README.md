@@ -12,21 +12,31 @@ Welcome! This is my work from University of Bucharest, Romania. This includes ho
 * 🎓 Semester 1
   - [Computer Systems Architecture](https://github.com/MihneaCucu/StorageManagement) - Assembly 
   - [Mathematical and Computational Logic](https://github.com/MihneaCucu/Mathematical-and-Computational-Logic) - Prolog
-  - [Algorithm Programming](https://github.com/912-enache-vlad/Fundamentals-of-programming) - Python 
+  - [Algorithm Programming](https://github.com/MihneaCucu/Algorithm-Programming) - Python 
     
 * 🎓 Semester 2
-  - [Databases](https://github.com/912-enache-vlad/Data-Structures-and-Algorithms) - SQL
-  - [Formal Languages and Automata](https://github.com/912-enache-vlad/Geometry) - C++, Python
+  - [Databases](https://github.com/MihneaCucu/Databases) - SQL
+  - [Formal Languages and Automata](https://github.com/MihneaCucu/Formal-Languages-and-Automata) - C++, Python
   - [Object-Oriented Programming](https://github.com/MihneaCucu/Brickset-Project) - C++
-  - [Data Structures](https://github.com/MihneaCucu/Structuri-de-date-avansate) - C++
-  - [Web Techniques](https://github.com/912-enache-vlad/Operating-Systems) - HTML, CSS, JS
+  - [Data Structures](https://github.com/MihneaCucu/Data-Structures) - C++
+  - [Web Techniques](https://github.com/MihneaCucu/Web-Techniques) - HTML, CSS, JS
     
 * 🎓 Semester 3
-  - [Fundamental Algorithms](https://github.com/VladEnache7/Semester-3/tree/main/Advanced%20programming%20methods) - C++
+  - [Fundamental Algorithms](https://github.com/MihneaCucu/Fundamental-Algorithms) - C++
   - [ASP.NET Web Application Development](https://github.com/MihneaCucu/TurboPiese) - C#
   - [Probability and Statistics](https://github.com/MihneaCucu/SpeechRecognition) - Python
-  - [Functional Programming](https://github.com/VladEnache7/Semester-3/tree/main/Functional%20and%20logical%20programming) - Haskell
-  - [Database Management Systems](https://github.com/VladEnache7/Semester-3/tree/main/Probabilities%20and%20Statistics) - PL/SQL
+  - [Functional Programming](https://github.com/MihneaCucu/Functional-Programming) - Haskell
+  - [Database Management Systems](https://github.com/MihneaCucu/Database-Management-Systems) - PL/SQL
+  - [Operating Systems](https://github.com/MihneaCucu/Operating-Systems/blob/main/README.md) - C
+
+* 🎓 Semester 4
+  - [Artificial Intelligence (Knowledge Representation)](https://github.com/MihneaCucu/Artificial-Intelligence-Knowledge-Representation) - Python
+  -  [Artificial Intelligence (Machine Learning)](https://github.com/MihneaCucu/Artificial-Intelligence-Machine-Learning) - Python
+  - [Advanced Object Programming](https://github.com/MihneaCucu/Advanced-Object-Programming) - Java
+  - [Advanced Algorithms](https://github.com/MihneaCucu/Advanced-Algorithms) - Python
+  - [Fundamentals of Programming Languages](https://github.com/MihneaCucu/Fundamentals-of-Programming-Languages) - Haskell
+  - [Software Development Methods](https://github.com/MihneaCucu/Software-Development-Methods) - 
+  - [Networks](https://github.com/MihneaCucu/Networks) - 
 
 
 * Below is a list with all technologies that I have worked with either in my college or in my free time.
