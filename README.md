@@ -11,14 +11,14 @@ Welcome! This is my work from University of Bucharest, Romania. This includes ho
 
 * 🎓 Semester 1
   - [Computer Systems Architecture](https://github.com/912-enache-vlad/Algebra/tree/main) - Assembly 
-  - [Differential and Integral Calculus]
+  - Differential and Integral Calculus
   - [Mathematical and Computational Logic](https://github.com/912-enache-vlad/Computer-Systems-Architecture/tree/main) - Prolog
   - [Algorithm Programming](https://github.com/912-enache-vlad/Fundamentals-of-programming) - Python 
-  - [Algebraic Structures in Computer Science]
+  - Algebraic Structures in Computer Science
     
 * 🎓 Semester 2
   - [Databases](https://github.com/912-enache-vlad/Data-Structures-and-Algorithms) - SQL
-  - [Geometry and Linear Algebra]
+  - Geometry and Linear Algebra
   - [Formal Languages and Automata](https://github.com/912-enache-vlad/Geometry) - C++, Python
   - [Object-Oriented Programming](https://github.com/912-enache-vlad/Graph-Algorithms) - C++
   - [Data Structures](https://github.com/912-enache-vlad/Object-Oriented-Programming) - C++
