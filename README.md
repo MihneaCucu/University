@@ -32,11 +32,11 @@ Welcome! This is my work from University of Bucharest, Romania. This includes ho
 * 🎓 Semester 4
   - [Artificial Intelligence (Knowledge Representation)](https://github.com/MihneaCucu/Artificial-Intelligence-Knowledge-Representation) - Python
   -  [Artificial Intelligence (Machine Learning)](https://github.com/MihneaCucu/Artificial-Intelligence-Machine-Learning) - Python
-  - [Advanced Object Programming](https://github.com/MihneaCucu/Advanced-Object-Programming) - Java
-  - [Advanced Algorithms](https://github.com/MihneaCucu/Advanced-Algorithms) - Python
+  - [Advanced Object Programming](https://github.com/MihneaCucu/AirplaneTickets) - Java
+  - [Advanced Algorithms](https://github.com/MihneaCucu/A) - Python
   - [Fundamentals of Programming Languages](https://github.com/MihneaCucu/Fundamentals-of-Programming-Languages) - Haskell
   - [Software Development Methods](https://github.com/MihneaCucu/Software-Development-Methods) - 
-  - [Networks](https://github.com/MihneaCucu/Networks) - 
+  - [Computer Networks](https://github.com/MihneaCucu/Networks) - 
 
 
 * Below is a list with all technologies that I have worked with either in my college or in my free time.
