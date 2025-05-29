@@ -35,7 +35,7 @@ Welcome! This is my work from University of Bucharest, Romania. This includes ho
   - [Advanced Object Programming](https://github.com/MihneaCucu/AirplaneTickets) - Java
   - [Advanced Algorithms](https://github.com/MihneaCucu/A) - Python
   - [Fundamentals of Programming Languages](https://github.com/MihneaCucu/Fundamentals-of-Programming-Languages) - Haskell
-  - [Software Development Methods](https://github.com/MihneaCucu/Software-Development-Methods) - 
+  - [Software Development Methods](https://github.com/MihneaCucu/Polygraph)
   - [Computer Networks](https://github.com/MihneaCucu/Networks) - 
 
 
