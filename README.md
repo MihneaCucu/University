@@ -36,7 +36,7 @@ Welcome! This is my work from University of Bucharest, Romania. This includes ho
   - [Advanced Algorithms](https://github.com/MihneaCucu/A) - Python
   - [Fundamentals of Programming Languages](https://github.com/MihneaCucu/Fundamentals-of-Programming-Languages) - Haskell
   - [Software Development Methods](https://github.com/MihneaCucu/Polygraph)
-  - [Computer Networks](https://github.com/MihneaCucu/Networks) - 
+  - [Computer Networks](https://github.com/curs-retele-2025/retele-default-gateway)
 
 
 * Below is a list with all technologies that I have worked with either in my college or in my free time.
